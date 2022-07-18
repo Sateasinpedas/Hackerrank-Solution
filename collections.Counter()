@@ -66,6 +66,7 @@ Customer 6 : Size 10 not available, so no purchase.
 
 Total money earned = 55 + 45 + 40 + 60 = $ 200
 
+```python
 #The answer code
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
@@ -82,3 +83,4 @@ for i in L:
         p = p+i[1]
           
 print(p)
+```
